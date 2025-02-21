@@ -2,6 +2,8 @@
 
 **'Tech Craftsman (Full-Stack-Developer)'**
 
+I'm a Kenyan FUll-Stack-Developer building my version of the Tech world one step at a time.Building projects from the ground up,from planning and designing all the way up to solving real-life problems with code alongside Artistic touches.
+
 - 👋 Hi, I’m @Lewiswizard
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
