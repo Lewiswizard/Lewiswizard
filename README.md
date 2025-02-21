@@ -1,4 +1,4 @@
-<h1>🇱‌🇪‌🇼‌🇮‌🇸‌-🇩‌🇮‌🇨‌🇰‌🇸‌🇴‌🇳‌</h1>
+<h1>🇱‌🇪‌🇼‌🇮‌🇸‌-🇳‌-🇩‌🇮‌🇨‌🇰‌🇸‌🇴‌🇳‌</h1>
 
 **'Tech Craftsman (Full-Stack-Developer)'**
 
@@ -79,11 +79,11 @@ I'm a Kenyan FUll-Stack-Developer building my version of the Tech world one step
 
 - ❓ Ask me about anything related to the Data Structure & Algorithms and related technologies
 
-- ⚡ Fun fact: I use spaces over tabs and smiling is my weakness
+- ⚡ Fun fact: I use spaces over tabs and smiling is my weakness 😊
 
 <br/>
 
-## Connect with me
+## Take a minute to Connect with me 😊
 
 <div align="center">
 <a href="https://github.com/Lewiswizard" target="_blank">
