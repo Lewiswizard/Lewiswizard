@@ -1,4 +1,7 @@
-<h1>Lewis-Dickson</h1>
+<h1>🇱‌🇪‌🇼‌🇮‌🇸‌-🇩‌🇮‌🇨‌🇰‌🇸‌🇴‌🇳‌</h1>
+
+**'Tech Craftsman (Full-Stack-Developer)'**
+
 - 👋 Hi, I’m @Lewiswizard
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
